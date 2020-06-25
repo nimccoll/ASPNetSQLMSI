@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pubs.Data", "Pubs.Data\Pubs.Data.csproj", "{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pubs.Services", "Pubs.Services\Pubs.Services.csproj", "{30F2610F-2C8F-4E46-BBBD-299819E8360C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pubs.Web", "Pubs.Web\Pubs.Web.csproj", "{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Release|ARM.ActiveCfg = Release|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Release|x64.ActiveCfg = Release|Any CPU
+		{1FBF76F5-21FA-4465-A14E-D3F6D4C7493B}.Release|x86.ActiveCfg = Release|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Release|x64.ActiveCfg = Release|Any CPU
+		{30F2610F-2C8F-4E46-BBBD-299819E8360C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEF0C3D1-4E2D-4CD6-BD9B-C33F1BF7C8D9}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE8ED072-4CBD-401F-9C71-AC25FC90BC8C}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nimccoll.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Pubs.Data\\Pubs.Data.csproj
+		SccProjectName1 = Pubs.Data
+		SccLocalPath1 = Pubs.Data
+		SccProjectUniqueName2 = Pubs.Services\\Pubs.Services.csproj
+		SccProjectName2 = Pubs.Services
+		SccLocalPath2 = Pubs.Services
+		SccProjectUniqueName3 = Pubs.Web\\Pubs.Web.csproj
+		SccProjectName3 = Pubs.Web
+		SccLocalPath3 = Pubs.Web
+	EndGlobalSection
+EndGlobal
